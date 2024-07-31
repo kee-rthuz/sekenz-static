@@ -1,1 +1,1 @@
-# sekenz-static
+# sekenzz-static
